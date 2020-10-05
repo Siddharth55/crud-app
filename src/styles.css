@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+body { 
+    margin: 0 5%;
+    background-image: orange;
+}
+.headingClass {
+    text-align: center;
+    font-size: x-large;
+    color: darkblue;
+}
+
+.alignForm{
+    width: 50%;
+    float: right;
+}
